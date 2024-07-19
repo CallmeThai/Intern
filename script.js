@@ -1,4 +1,4 @@
-console.log('motherfker')
+
 
 function ShowPopup() {
     var popup = document.getElementById('popup');
